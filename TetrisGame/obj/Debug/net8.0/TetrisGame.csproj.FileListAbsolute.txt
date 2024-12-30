@@ -1,0 +1,14 @@
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\bin\Debug\net8.0\TetrisGame.exe
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\bin\Debug\net8.0\TetrisGame.deps.json
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\bin\Debug\net8.0\TetrisGame.runtimeconfig.json
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\bin\Debug\net8.0\TetrisGame.dll
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\bin\Debug\net8.0\TetrisGame.pdb
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.AssemblyInfo.cs
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.dll
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\refint\TetrisGame.dll
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.pdb
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\TetrisGame.genruntimeconfig.cache
+C:\Users\Yaroslav\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0\ref\TetrisGame.dll
